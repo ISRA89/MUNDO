@@ -1,2 +1,0 @@
-# MUNDO
-codigo hola mundo
