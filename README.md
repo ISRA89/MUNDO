@@ -1,2 +1,4 @@
 # MUNDO
 codigo hola mundo
+
+MAS O MENOS ES COMO FUNCIONA ISRA.. SOY CHERREZ
